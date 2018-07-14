@@ -20,7 +20,7 @@
 > * 功能强大，满足不同地质采矿条件的沉陷预计问题
 
 ![软件系统启动界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image002.jpg) <br>
-**软件系统启动界面**
+*图1-1 软件系统启动界面*
 
 ------
 ## 2 软件运行环境
@@ -37,23 +37,24 @@
 ## 3 软件安装方法
 
 （1）首先双击软件安装包【采煤沉陷预测分析系统安装文件.exe】文件，见图3-1。
-注：安装时请关闭杀毒软件或防火墙，防止软件安装过程中出现错误。
-**图3-1 系统启动文件**
-![系统启动文件](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image004.jpg)
+注：安装时请关闭杀毒软件或防火墙，防止软件安装过程中出现错误。<br>
 
-（2）进入安装界面后点【下一步】，见图3-2。
-**图3-2 系统安装界面**
-![系统安装界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image004.jpg)
+![系统启动文件](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image004.jpg) <br>
+*图3-1 系统启动文件*
 
-（3）在授权协议界面（图3-3）。
-**图3-3 授权协议界面**
-![授权协议界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image008.jpg)
+（2）进入安装界面后点【下一步】，见图3-2。<br>
+![系统安装界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image004.jpg) <br>
+*图3-2 系统安装界面*
 
-（4）选择安装路径（图3-4）
-**图3-4 选择安装路径**
-![选择安装路径](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image010.jpg)
+（3）在授权协议界面（图3-3）。<br>
+![授权协议界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image008.jpg) <br>
+*图3-3 授权协议界面*
 
-（5）安装成功。
+（4）选择安装路径（图3-4） <br>
+![选择安装路径](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image010.jpg) <br>
+*图3-4 选择安装路径*
+
+（5）安装成功。 <br>
 ![安装成功](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image012.jpg)
  
 （6）安装软件辅助软件
@@ -61,13 +62,13 @@
 软件完成安装后，确保系统中已经安装相关辅助软件正确版本，否则会影响软件的使用。
 
 （7）软件启动。
-	软件使用时，需要在电脑USB端口，插入软件商提供的配套加密狗，如图3-5
-**图 3-5 软件加密狗**
-![软件加密狗](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image014.jpg)
+软件使用时，需要在电脑USB端口，插入软件商提供的配套加密狗，如图3-5 <br>
+![软件加密狗](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image014.jpg) <br>
+*图 3-5 软件加密狗*
 
-（7）软件首次运行
-**图3-6 软件首次运行界面**
-![软件首次运行界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image016.jpg)
+（7）软件首次运行 <br>
+![软件首次运行界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image016.jpg) <br>
+*图3-6 软件首次运行界面*
 
 软件首次运行，会配置系统文件以及将注册信息发送给服务器，以便今后的软件维护和更新。
 

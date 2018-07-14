@@ -19,6 +19,7 @@
 > * 软件界面友好、操作简单、预计结果可视化
 > * 功能强大，满足不同地质采矿条件的沉陷预计问题
 
+软件系统启动界面
 ![软件系统启动界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image002.jpg)
 
 ------
@@ -38,10 +39,14 @@
 
 （1）首先双击软件安装包【采煤沉陷预测分析系统安装文件.exe】文件，见图3-1。
 注：安装时请关闭杀毒软件或防火墙，防止软件安装过程中出现错误。
-图3-1 系统启动文件![系统启动文件](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image004.jpg)
+
+图3-1 系统启动文件
+![系统启动文件](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image004.jpg)
 
 （2）进入安装界面后点【下一步】，见图3-2。
-图3-2 系统安装界面![系统安装界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image004.jpg)
+
+图3-2 系统安装界面
+![系统安装界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image004.jpg)
 
 （3）在授权协议界面（图3-3）。
 图3-3 授权协议界面![授权协议界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image008.jpg)

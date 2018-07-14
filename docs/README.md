@@ -335,7 +335,7 @@
 各预计结果文件的数据格式为： <br>
 点名，X坐标（大地坐标），Y，预计值
 
-## 5.9 绘图 
+### 5.9 绘图 
 
 本系统支持自主绘制地表变形等值线图，用户需自行安装Surfer软件，通过后台调用Surfer，绘制预计图。点击【功能模块】中【生成等值线Surfer】，进入绘图界面，如下图5-19： <br>
  ![预计](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image083.jpg)   <br>

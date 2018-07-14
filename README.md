@@ -19,9 +19,8 @@
 > * 软件界面友好、操作简单、预计结果可视化
 > * 功能强大，满足不同地质采矿条件的沉陷预计问题
 
-**软件系统启动界面**
-
 ![软件系统启动界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image002.jpg)
+**软件系统启动界面**
 
 ------
 ## 2 软件运行环境

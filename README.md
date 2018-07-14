@@ -19,7 +19,7 @@
 > * 软件界面友好、操作简单、预计结果可视化
 > * 功能强大，满足不同地质采矿条件的沉陷预计问题
 
-![软件系统启动界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/image002.jpg)
+![软件系统启动界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image002.jpg)
 
 ------
 ## 2 软件运行环境
@@ -38,18 +38,18 @@
 
 （1）首先双击软件安装包【采煤沉陷预测分析系统安装文件.exe】文件，见图3-1。
 注：安装时请关闭杀毒软件或防火墙，防止软件安装过程中出现错误。
-图3-1 系统启动文件![系统启动文件](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/image004.jpg)
+图3-1 系统启动文件![系统启动文件](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image004.jpg)
 
 （2）进入安装界面后点【下一步】，见图3-2。
-图3-2 系统安装界面![系统安装界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/image004.jpg)
+图3-2 系统安装界面![系统安装界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image004.jpg)
 
 （3）在授权协议界面（图3-3）。
-图3-3 授权协议界面![授权协议界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/image008.jpg)
+图3-3 授权协议界面![授权协议界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image008.jpg)
 
 （4）选择安装路径（图3-4）
-图3-4 选择安装路径![选择安装路径](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/image010.jpg)
+图3-4 选择安装路径![选择安装路径](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image010.jpg)
 
-（5）安装成功。![安装成功](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/image012.jpg)
+（5）安装成功。![安装成功](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image012.jpg)
  
 （6）安装软件辅助软件
 软件安装成功后，提示安装Surfer8.0，如果系统中已经安装Surfer8.0，可以去掉Surfer8.0前的选项框，再点击【完成】即可；如果未去选项框中的√，软件会默认安装Surfer8.0。
@@ -57,9 +57,9 @@
 
 （7）软件启动。
 	软件使用时，需要在电脑USB端口，插入软件商提供的配套加密狗，如图3-5
-图 3-5 软件加密狗 ![软件加密狗](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/image014.jpg)
+图 3-5 软件加密狗 ![软件加密狗](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image014.jpg)
 
 （7）软件首次运行
-图3-6 软件首次运行界面 ![软件首次运行界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/image016.jpg)
+图3-6 软件首次运行界面 ![软件首次运行界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/blob/master/raw/image016.jpg)
 
 软件首次运行，会配置系统文件以及将注册信息发送给服务器，以便今后的软件维护和更新。

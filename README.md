@@ -36,37 +36,37 @@
 ------
 ## 3 软件安装方法
 
-（1）首先双击软件安装包【采煤沉陷预测分析系统安装文件.exe】文件，见图3-1。
+**（1）首先双击软件安装包【采煤沉陷预测分析系统安装文件.exe】文件，见图3-1。**  <br> 
 注：安装时请关闭杀毒软件或防火墙，防止软件安装过程中出现错误。<br>
-
+ 
 ![系统启动文件](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image004.jpg) <br>
 *图3-1 系统启动文件*
 
-（2）进入安装界面后点【下一步】，见图3-2。<br>
-![系统安装界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image004.jpg) <br>
+**（2）进入安装界面后点【下一步】，见图3-2。** <br>
+![系统安装界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image006.jpg) <br>
 *图3-2 系统安装界面*
 
-（3）在授权协议界面（图3-3）。<br>
+**（3）在授权协议界面（图3-3）。** <br>
 ![授权协议界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image008.jpg) <br>
 *图3-3 授权协议界面*
 
-（4）选择安装路径（图3-4） <br>
+**（4）选择安装路径（图3-4）**  <br>
 ![选择安装路径](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image010.jpg) <br>
 *图3-4 选择安装路径*
 
-（5）安装成功。 <br>
+**（5）安装成功。**  <br>
 ![安装成功](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image012.jpg)
  
-（6）安装软件辅助软件 <br>
-软件安装成功后，提示安装Surfer8.0，如果系统中已经安装Surfer8.0，可以去掉Surfer8.0前的选项框，再点击【完成】即可；如果未去选项框中的√，软件会默认安装Surfer8.0。
+**（6）安装软件辅助软件**  <br>
+软件安装成功后，提示安装Surfer8.0，如果系统中已经安装Surfer8.0，可以去掉Surfer8.0前的选项框，再点击【完成】即可；如果未去选项框中的√，软件会默认安装Surfer8.0。  <br>
 软件完成安装后，确保系统中已经安装相关辅助软件正确版本，否则会影响软件的使用。
 
-（7）软件启动。 <br>
+**（7）软件启动。** <br>
 软件使用时，需要在电脑USB端口，插入软件商提供的配套加密狗，如图3-5 <br>
 ![软件加密狗](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image014.jpg) <br>
 *图 3-5 软件加密狗*
 
-（7）软件首次运行 <br>
+**（7）软件首次运行** <br>
 ![软件首次运行界面](https://github.com/zhuxiaojunahu/MiningSubsidenceDoc/raw/master/DocImage/image016.jpg) <br>
 *图3-6 软件首次运行界面*
 
